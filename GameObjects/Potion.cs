@@ -7,20 +7,20 @@ public class Potion : Item, IInteractable
     
     private void Init()
     {
-        Symbol = 'I';
+        Symbol = '*';
     }
 
     public override void Use()
     {
-        Owner.Heal(1);
-        
-        Inventory.Remove(this);
+        Owner?.Grow(1);
+
+        Inventory?.Remove(this);
         Inventory = null;
         Owner = null;
     }
 
     public void Interact(PlayerCharacter player)
     {
-        player.AddItem(this);
+        player.Grow(1);
     }
 }

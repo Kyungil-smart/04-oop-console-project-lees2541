@@ -60,7 +60,8 @@ public class TitleScene : Scene
 
     public void GameStart()
     {
-        SceneManager.Change("Town");
+        SceneManager.Change("Story");
+
     }
 
     public void ViewCredits()

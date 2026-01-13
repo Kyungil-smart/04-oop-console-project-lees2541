@@ -1,0 +1,14 @@
+C:\Users\LEES\source\repos\minigame\bin\Debug\net8.0\minigame.exe
+C:\Users\LEES\source\repos\minigame\bin\Debug\net8.0\minigame.deps.json
+C:\Users\LEES\source\repos\minigame\bin\Debug\net8.0\minigame.runtimeconfig.json
+C:\Users\LEES\source\repos\minigame\bin\Debug\net8.0\minigame.dll
+C:\Users\LEES\source\repos\minigame\bin\Debug\net8.0\minigame.pdb
+C:\Users\LEES\source\repos\minigame\obj\Debug\net8.0\minigame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEES\source\repos\minigame\obj\Debug\net8.0\minigame.AssemblyInfoInputs.cache
+C:\Users\LEES\source\repos\minigame\obj\Debug\net8.0\minigame.AssemblyInfo.cs
+C:\Users\LEES\source\repos\minigame\obj\Debug\net8.0\minigame.csproj.CoreCompileInputs.cache
+C:\Users\LEES\source\repos\minigame\obj\Debug\net8.0\minigame.dll
+C:\Users\LEES\source\repos\minigame\obj\Debug\net8.0\refint\minigame.dll
+C:\Users\LEES\source\repos\minigame\obj\Debug\net8.0\minigame.pdb
+C:\Users\LEES\source\repos\minigame\obj\Debug\net8.0\minigame.genruntimeconfig.cache
+C:\Users\LEES\source\repos\minigame\obj\Debug\net8.0\ref\minigame.dll
